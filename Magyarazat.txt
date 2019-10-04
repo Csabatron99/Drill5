@@ -1,0 +1,1 @@
+Nem tudtam g++ al atalakitani a filet mivel a programban egy valtozo tobbszor van deklaralva de igy ki van javitva.
